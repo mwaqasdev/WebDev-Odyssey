@@ -16,6 +16,11 @@ A growing collection of my beginner-friendly **frontend web development projects
 - 🧮 [JS Calculator](https://js-vanilla-calculator.vercel.app/)  
   A clean and functional calculator built using HTML, CSS, and vanilla JavaScript — perfect for everyday math needs.
 
+### Pages
+A collection of UI prototypes and pages built for the RMS(Risk Management System) project.
+- 🔐 [Login Page](https://rms-login-page.vercel.app/)
+- 🔐 [Manage Access Page](https://manage-access.vercel.app/)
+
 ---
 
 > More projects coming soon. This repo is part of my ongoing learning — feel free to fork, explore, or suggest ideas!

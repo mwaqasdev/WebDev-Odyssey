@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="project3.css">
+</head>
+
+<body>
+    <div id="main">
+        <div class="cursor"></div>
+        <h1>Coding School</h1>
+    </div>
+
+    <script>
+        let main = document.querySelector('#main')
+        let cursor = document.querySelector('.cursor')
+
+        main.addEventListener('mousemove', function (dets) {
+            cursor.style.left = dets.x + 'px'
+            cursor.style.top = dets.y + 'px'
+        })
+    </script>
+</body>
+
+</html>

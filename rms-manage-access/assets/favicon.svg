@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16"><svg width="16" height="16" version="1.1" viewBox="0 0 4.2333 4.2333" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:rdf>
+   <cc:work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+    <dc:title></dc:title>
+   </cc:work>
+  </rdf:rdf>
+ </metadata>
+ <path d="m0.020534 0.53 0.95925 0.26852 1.1588 1.696 1.2022-1.7377 0.87195 1.6365-0.69966 0.91033-0.47228-0.96668-0.89592 1.2938-0.90005-1.2852-0.36504 1.0324-0.88204 0.31744z" fill="#fff" fill-opacity=".86275" stroke-width=".26458"></path>
+ <path d="m-0.0022031 0.49 0.95925 0.26852 1.1588 1.696 1.2022-1.7377 0.87195 1.6365-0.69966 0.91033-0.47228-0.96668-0.89592 1.2938-0.90005-1.2852-0.36504 1.0324-0.85931 0.31744z" fill="#fff" stroke-width=".26458"></path>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
